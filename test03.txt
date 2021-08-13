@@ -1,3 +1,6 @@
 hello, git! 33
 new modify.
 mod by master!!!
+hello, git! 1
+mod by color!
+
